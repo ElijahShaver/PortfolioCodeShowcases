@@ -1,4 +1,5 @@
-# PortfolioCodeShowcases
-Showcases of my programming skills, meant to be shown off to people who visit my portfolio. These include C# files that include code that I wrote in Visual Studio for my games that I made in Unity.
+# Pickup 'N' Packup!
+This is a game that I made for a VR development class using Steam's SteamVR Unity plugin, and I think it turned out quite well for my first proper VR game! It was one of my first ever experiences with VR development, and the first ever game that I have published to the Steam platform.
 
-Each branch of this repository will be dedicated to different games, and each branch will include a branch-specific README file explaining what each .cs file does.
+# C# File Explanations/Uses
+## BinScript.cs
