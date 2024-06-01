@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-// note: this was unfortunately cut from the final game due to time constraints, but it works perfectly when utilized!
-// a version of this code was also supposed to be used in the prologue, and technically that version is in the final game, but i didn't have the time to create the art assets needed to make it work, so there's only a stagnant image throughout it.
+// fun fact: a version of this code was also supposed to be used in the prologue, and technically that version is in the final game, but i didn't have the time to create the art assets needed to make it work, so there's only a stagnant image throughout it.
 public class ShowCutscene : MonoBehaviour
 {
     public GameObject[] cutsceneToShow;
